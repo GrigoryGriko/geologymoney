@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /auth/setting_account.php
+Disallow: /auth/user_wall.php
+Disallow: /auth/my_cabinet
+
+Disallow: /all/admin/
